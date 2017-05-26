@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ABFF91;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Lucida Sans'; 
+    margin: 10px auto;
+}
+
+table { 
+    margin-right:auto;
+    margin-left:auto;
+    border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #000000;
+  padding: 1rem;
+  text-align: center;
+  background: #FFFA91;
+}
+
+tr.dif td {
+    background:#EEEEEE;
+}
+
+.libertadores {
+    color: blue;
+}
+
+.pre_libertadores {
+    color: #0BBFBF;
+}
+
+.sul_americana {
+    color: #056830;
+}
+
+.rebaixados {
+    color: red;
+}
