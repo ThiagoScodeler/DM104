@@ -17,7 +17,6 @@ function addNewNome() {
     UlElement.appendChild(LiElement);
 
     var myBody = document.getElementsByTagName('body');
-    console.log(myBody);
     myBody[0].appendChild(UlElement);
 }
 }
